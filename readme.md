@@ -2,7 +2,7 @@
 <h1 align="center">
 The Wild Bliss - Stay, Book, Relax</h1>
 
-<p align="center"><img src="https://ibb.co/wZtTy7Y" alt="Movix homepage"></p>
+<p align="center"><img src="./src/data/screenshort/1.png" alt="Movix homepage"></p>
 
 <p>Welcome to The Wild Bliss Hotel Management Application documentation. This application is designed to manage hotel operations, including sales statistics, cabin management, user management, booking management, and various customization options. It integrates authentication, database storage, and dark mode features.</p>
 
@@ -63,8 +63,8 @@ http://localhost:5173
 
 ### screenshots
 
-<img src="./src/data/screenshort/2.PNG" alt="Movix homepage">
-<img src="./src/data/screenshort/3.PNG" alt="Movix homepage">
+<img src="./src/data/screenshort/2.png" alt="Movix homepage">
+<img src="./src/data/screenshort/3.png" alt="Movix homepage">
 
 ## 💻 Technology Used
 
