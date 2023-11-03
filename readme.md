@@ -62,7 +62,7 @@ http://localhost:5173
 8. **Database Integration**: Utilize Supabase for reliable data storage and retrieval.
 
 ### screenshots
-
+<p align="center"><img src="./src/data/screenshort/1.png" alt="Movix homepage"></p>
 <img src="./src/data/screenshort/2.png" alt="Movix homepage">
 <img src="./src/data/screenshort/3.png" alt="Movix homepage">
 
